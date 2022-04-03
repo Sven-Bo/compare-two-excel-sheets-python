@@ -3,7 +3,6 @@
 In this video, I will show you how to use Python to compare two Excel sheets with different numbers of rows and find the differences between them.
 
 ## Video Tutorial
-..will follow soon :)
 [![YouTube Video](https://img.youtube.com/vi/D7dEQ9LI-8A/0.jpg)](https://youtu.be/D7dEQ9LI-8A)
 
 
